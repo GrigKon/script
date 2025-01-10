@@ -1,7 +1,6 @@
 import websocket
 import json
 import sqlite3
-import threading
 from threading import Timer
 
 # Настройки подключения к WebSocket API ALOR
